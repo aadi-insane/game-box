@@ -35,7 +35,7 @@ games-box/
 │   ├── rock_paper_scissors.rb
 │   ├── dice_rolling.rb
 │   ├── coin_toss.rb
-│   ��── even_odd_checker.rb
+│   ├── even_odd_checker.rb
 │   ├── simple_quiz.rb
 │   ├── math_puzzle.rb
 │   ├── word_guess.rb
